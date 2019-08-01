@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GradeCalculator</string>
+    <string name="title_message">Grade Calculator</string>
+    <string name="report_message">Report</string>
+    <string name="ios">iOS</string>
+    <string name="android">Android</string>
+    <string name="swift">Swift</string>
+    <string name="java">JAVA</string>
+    <string name="min">MIN</string>
+    <string name="avg">AVG</string>
+    <string name="max">MAX</string>
+</resources>
